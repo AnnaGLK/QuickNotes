@@ -1,6 +1,6 @@
 {
-  "homepage": "https://annaglk.github.io/QuickNotes",
-  "name": "my-app",
+  "homepage": "https://annaglk.github.io/quick-notes",
+  "name": "quick-notes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
